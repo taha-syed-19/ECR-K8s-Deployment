@@ -21,3 +21,5 @@ spec:
           image: eclipse-mosquitto:latest
           ports:
             - containerPort: 1883
+
+  
